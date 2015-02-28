@@ -1,6 +1,6 @@
 {
   "name": "raleway",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Raleway Web Font Package by Google Fonts",
   "main": "Gruntfile.js",
   "repository": {
