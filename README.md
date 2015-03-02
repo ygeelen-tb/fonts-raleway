@@ -1,6 +1,6 @@
 # Fonts Raleway Bower package
 
-A simple bower package providing the Fonts [Raleway](http://www.google.com/fonts/specimen/Raleway). The font was created by [William Canin](http://github.com/williamcanin).
+A simple bower package providing the Fonts [Raleway](http://www.google.com/fonts/specimen/Raleway).  Package bower created by  [William Canin](http://github.com/williamcanin).
 
 ## Installing
 
